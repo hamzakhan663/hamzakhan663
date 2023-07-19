@@ -32,7 +32,7 @@
 <br>
 
 ## ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhan663&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhan663&langs_count=8&theme=dark&layout=compact)
 <br><br>
 ## ----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzakhan663&show_icons=true&theme=dark&locale=en" alt="hamzakhan663" /></p>
