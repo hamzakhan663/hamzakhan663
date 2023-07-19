@@ -21,7 +21,7 @@
 
 
 <a href="https://linkedin.com/in/hamzasulaimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzasulaimon" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_onlykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_onlykhan" height="30" width="40" style=margin-bottom:-7px;/></a>
+<a href="https://instagram.com/itz_onlykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_onlykhan" height="30" width="40" style=margin-bottom:-10px;/></a>
 
 </p>
 <br><br>
@@ -31,8 +31,12 @@
 <br>
 
 ## ----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakhan663&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+## ----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzakhan663&show_icons=true&theme=dark&locale=en" alt="hamzakhan663" /></p>
 <br>
+
 
 ## ----
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakhan663&theme=dark" alt="hamzakhan663" /></p>
