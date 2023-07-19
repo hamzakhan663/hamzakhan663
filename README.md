@@ -21,7 +21,7 @@
 
 
 <a href="www.linkedin.com/in/
-hamzasulaimon-53120b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzasulaimon" height="30" width="40" /></a>
+hamza-sulaimon-53120b24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzasulaimon" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_onlykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_onlykhan" height="30" width="40" style=margin-bottom:-10px;/></a>
 
 </p>
