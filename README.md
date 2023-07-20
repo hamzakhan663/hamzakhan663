@@ -1,5 +1,5 @@
 <h1 align="left">Hola👋, soy Sulaimon Hamza</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=000000&width=435&lines=I+am+Sulaimon+Hamza.;An+adept+and+enthusiastic+software+developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=FFFFFF&width=435&lines=I+am+Sulaimon+Hamza.;An+adept+and+enthusiastic+software+developer." alt="Typing SVG" /></a>
 
 - 🔭 At the moment **my focus is completely dedicated to broadening my knowledge in full-stack web development.**
 
