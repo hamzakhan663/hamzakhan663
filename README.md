@@ -3,7 +3,7 @@
 
 - 🔭 At the moment **my focus is completely dedicated to broadening my knowledge in full-stack web development.**
 
-- 🌱 I’m currently learning **JavaScript and Python**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate **on any project**
 
